@@ -13,8 +13,8 @@ Continúa el EDA del ACA 1 con el mismo dataset.
 
 | Recurso | Enlace |
 |---|---|
-| Aplicación publicada | *(pendiente)* |
-| Notebook en Google Colab | [`ACA2_Dashboard_EDA_Telco_Churn.ipynb`](ACA2_Dashboard_EDA_Telco_Churn.ipynb) |
+| **Aplicación publicada** | https://aca2-telco-churn-cun.streamlit.app |
+| Notebook en Google Colab | [Abrir en Colab](https://colab.research.google.com/github/bonnymusic77-web/aca2-dashboard-telco-churn/blob/main/ACA2_Dashboard_EDA_Telco_Churn.ipynb) |
 | Reporte técnico (PDF) | [`Reporte_ACA2_Telco_Churn.pdf`](Reporte_ACA2_Telco_Churn.pdf) |
 | Video de sustentación | *(pendiente)* |
 
